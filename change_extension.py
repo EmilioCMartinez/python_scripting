@@ -1,3 +1,5 @@
+#for this code, I had multiple images where I needed to change the extensions. Rather than do it manually, 
+#I created this script to loop through all the images in my folder and change them to the extensions I needed.
 import os 
 
 #this is where the folder is located where the pictures of my crash are
